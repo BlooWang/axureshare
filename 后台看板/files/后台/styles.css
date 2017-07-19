@@ -35643,12 +35643,34 @@
   width:1px;
   height:1px;
 }
+#u89_state5 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1254px;
+  height:647px;
+  visibility:hidden;
+  overflow:auto;
+  -webkit-overflow-scrolling:touch;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  background-image:none;
+}
+#u89_state5_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
 #u2660 {
   border-width:0px;
   position:absolute;
   left:30px;
   top:73px;
-  width:1059px;
+  width:1194px;
   height:335px;
 }
 #u2661_img {
@@ -35752,22 +35774,6 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:150px;
+  width:132px;
   height:30px;
-}
-#u2669 {
-  border-width:0px;
-  position:absolute;
-  left:510px;
-  top:0px;
-  width:150px;
-  height:30px;
-}
-#u2670 {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:7px;
-  width:146px;
-  word-wrap:break-word;
 }
