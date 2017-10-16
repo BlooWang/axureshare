@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1072px;
+  width:1146px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -150,8 +150,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:649px;
-  height:22px;
+  width:1146px;
+  height:66px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -168,8 +168,8 @@
   position:absolute;
   left:0px;
   top:312px;
-  width:649px;
-  height:22px;
+  width:1146px;
+  height:66px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
@@ -179,6 +179,6 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:649px;
+  width:1146px;
   white-space:nowrap;
 }

@@ -17,6 +17,8 @@
 }
 ._图片 {
 }
+.placeholder {
+}
 .button {
 }
 .primary_button {
@@ -75,6 +77,10 @@
 .line {
 }
 .text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
   color:#000000;
   text-align:left;
 }
